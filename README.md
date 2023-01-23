@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balakrishnan
-- 👀 I’m interested in ...web,game and blockchain development
-- 🌱 I’m currently learning ...HTML,CSS, javascript and C language
+- 👀 I’m interested in ...website and web application development
+- 🌱 I’m currently learning ...HTML,CSS, javascript(react, node) language
 - 💞️ I’m looking to collaborate on ...a company which give me a chance to show my skill
 - 📫 How to reach me ... balakris1997@gmail.com
 LinkedIn ID -https://www.linkedin.com/public-profile/settings
